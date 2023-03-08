@@ -1,0 +1,8 @@
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\bin\Debug\DB.dacpac
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\DB.sqlproj.AssemblyReference.cache
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\Model.xml
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\refactor.xml
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\postdeploy.sql
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\predeploy.sql
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\DB.dll
+C:\Users\k.drzazgowska\source\repos\EcoTravel\DB\obj\Debug\DB.pdb
